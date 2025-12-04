@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Data & indexes (DO NOT PUSH)
+data/
+*.sqlite3
+*.bin
+*.pickle
+*.pkl
+
+# Other large files
+*.log
